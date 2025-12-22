@@ -1,9 +1,9 @@
 name: Build
 
 on:
-  push:
-    branches: [ main ]
+  # Remove `push` because the action does not support Event `push`
   schedule:
+    # runs once per hour — change to your preferred cadence
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -31,8 +31,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Commit tracked-file changes (no git add required for modified tracked files)
           git commit -am "chore: update activity section" || echo "No changes to commit"
-          # Push using PAT stored in secret
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
