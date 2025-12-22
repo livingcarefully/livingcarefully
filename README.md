@@ -9,4 +9,7 @@ I'm **Artist**, **Gamer**, **Photographer** and **Developer**. <br />
 ## 📘 Discord:
 <a href="https://discord.com/users/1024297429127933952"><img src="https://lanyard.cnrad.dev/api/1024297429127933952?hideActivity=true&showDisplayName=true" /></a>
 
-### Thx for reading this <3
+## 🕘 Recent activity:
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
