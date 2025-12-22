@@ -23,8 +23,8 @@ jobs:
         with:
           USERNAME: livingcarefully
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+  
       - name: Commit and push (if README changed)
         env:
           TOKEN: ${{ secrets.ACCESS_TOKEN }}
