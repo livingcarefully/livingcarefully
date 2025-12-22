@@ -1,9 +1,7 @@
 name: Build
 
 on:
-  # Remove `push` because the action does not support Event `push`
   schedule:
-    # runs once per hour — change to your preferred cadence
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -25,7 +23,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
-      - name: Commit and push (if README changed) without explicit git add
+      - name: Commit and push (if README changed)
         env:
           TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
