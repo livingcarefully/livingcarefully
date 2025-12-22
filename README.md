@@ -11,28 +11,23 @@ I'm **Artist**, **Gamer**, **Photographer** and **Developer**. <br />
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-`[12/22 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/YoichiMt](https://github.com/livingcarefully/YoichiMt)  
-`[12/22 15:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [livingcarefully/ReZIP](https://github.com/livingcarefully/ReZIP)  
-`[12/22 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/YoichiMt](https://github.com/livingcarefully/YoichiMt)  
+`[12/22 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/livingcarefully](https://github.com/livingcarefully/livingcarefully)  
 `[12/21 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒livingcarefully/yoichi`</span>  
-`[12/21 10:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/YoichiMt](https://github.com/livingcarefully/YoichiMt)  
+`[12/21 10:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/livingcarefully](https://github.com/livingcarefully/livingcarefully)  
 `[12/05 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in <span title="Private Repo">`🔒windowshaters/sleepinginnowhere`</span>  
 `[12/05 11:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒windowshaters/sleepinginnowhere`</span>  
 `[12/05 11:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒livingcarefully/yoichi`</span>  
 `[12/03 23:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒livingcarefully/yoichi`</span>  
 `[12/03 23:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
+`[12/03 22:46]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`BetaVers`](https://github.com/livingcarefully/clean-profile-page/releases/tag/BetaVers) in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
+`[12/03 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
 
 <details><summary>Show More</summary>
 
-`[12/03 22:46]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`BetaVers`](https://github.com/livingcarefully/clean-profile-page/releases/tag/BetaVers) in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
-`[12/03 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
 `[12/03 21:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/livingcarefully/clean-profile-page/tree/main) in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
 `[12/03 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒livingcarefully/idk`</span>  
 `[12/03 11:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒livingcarefully/idk`</span>  
-`[12/02 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [livingcarefully/YoichiMt](https://github.com/livingcarefully/YoichiMt)  
-`[11/23 22:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [livingcarefully/ReZIP](https://github.com/livingcarefully/ReZIP)  
-`[11/23 22:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/livingcarefully/ReZIP/tree/main) in [livingcarefully/ReZIP](https://github.com/livingcarefully/ReZIP)  
-`[11/23 22:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [livingcarefully/YoichiMt](https://github.com/livingcarefully/YoichiMt)  
+`[12/02 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/livingcarefully](https://github.com/livingcarefully/livingcarefully)  
 
 </details>
 <!--END_SECTION:activity-->
