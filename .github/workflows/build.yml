@@ -20,6 +20,8 @@ jobs:
 
       - name: Update activity section in README
         uses: cheesits456/github-activity-readme@16bd144b812ce901e0693fee5c36c02e75e6b4a7
+        with:
+          USERNAME: livingcarefully
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
