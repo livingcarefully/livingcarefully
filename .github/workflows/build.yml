@@ -1,0 +1,38 @@
+name: Build
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update activity section in README
+        uses: cheesits456/github-activity-readme@16bd144b812ce901e0693fee5c36c02e75e6b4a7
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+      - name: Commit and push (if README changed) without explicit git add
+        env:
+          TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Commit tracked-file changes (no git add required for modified tracked files)
+          git commit -am "chore: update activity section" || echo "No changes to commit"
+          # Push using PAT stored in secret
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+          git push origin HEAD:main
