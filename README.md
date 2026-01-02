@@ -25,7 +25,6 @@
 `[12/03 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
 `[12/03 21:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/livingcarefully/clean-profile-page/tree/main) in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
 `[12/03 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in <span title="Private Repo">`🔒livingcarefully/idk`</span>  
-`[12/03 11:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒livingcarefully/idk`</span>  
 
 </details>
 <!--END_SECTION:activity-->
