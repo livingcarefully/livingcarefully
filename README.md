@@ -20,9 +20,6 @@
 <details><summary>Show More</summary>
 
 `[12/03 23:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/livingcarefully/yoichi.vercel.app/tree/main) in [livingcarefully/yoichi.vercel.app](https://github.com/livingcarefully/yoichi.vercel.app)  
-`[12/03 23:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
-`[12/03 22:46]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`BetaVers`](https://github.com/livingcarefully/clean-profile-page/releases/tag/BetaVers) in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
-`[12/03 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/clean-profile-page](https://github.com/livingcarefully/clean-profile-page)  
 
 </details>
 <!--END_SECTION:activity-->
