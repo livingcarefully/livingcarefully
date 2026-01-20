@@ -15,7 +15,6 @@
 `[12/25 13:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/yoichi.vercel.app](https://github.com/livingcarefully/yoichi.vercel.app)  
 `[12/22 16:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/livingcarefully](https://github.com/livingcarefully/livingcarefully)  
 `[12/21 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/yoichi.vercel.app](https://github.com/livingcarefully/yoichi.vercel.app)  
-`[12/21 10:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [livingcarefully/livingcarefully](https://github.com/livingcarefully/livingcarefully)  
 
 </details>
 <!--END_SECTION:activity-->
