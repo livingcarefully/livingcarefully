@@ -1,11 +1,15 @@
-## Hi, it's shadow here ..
+## - Known as Shadow
 ```ts
 const shadow = {
-  quote: "Behind the shadows, i still mystery",
+  myquote: "Behind the shadows, i still mystery",
   age: "15yrs",
-  hobbies: "Drawing - Programming - Graphic Designing - Reading",
-  secret_code: "101",
+  hobbies: "Drawing - Chilling - Graphic Designing - Reading",
+  secretcode: "111",
+  thingsicare: "Nothing i guess..?",
 }
 ```
-## - Discord:
-<a href="https://discord.com/users/1024297429127933952"><img src="https://lanyard.cnrad.dev/api/1024297429127933952?hideActivity=true&showDisplayName=false" /></a>
+## - Discord
+<a href="https://discord.com/users/1024297429127933952"><img src="https://lanyard.cnrad.dev/api/1024297429127933952?hideActivity=false&showDisplayName=false" /></a>
+--
+<img src="https://komarev.com/ghpvc/?username=oldnoble" alt="views on github" />
+</p>
