@@ -1,10 +1,9 @@
-## - Known as Shadow
+## - Known as Nix
 ```ts
-const shadow = {
+const nix = {
   myquote: "Behind the shadows, i still mystery",
-  age: "15yrs",
+  age: "16yrs",
   hobbies: "Drawing - Chilling - Graphic Designing - Reading",
-  secretcode: "111",
   thingsicare: "Nothing i guess..?",
 }
 ```
